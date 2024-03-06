@@ -1,0 +1,6 @@
+[submodule "ConsoleApi"]
+	path = ConsoleApi
+	url = git@github.com:rinkaaan/ConsoleApi.git
+[submodule "ConsoleApp"]
+	path = ConsoleApp
+	url = git@github.com:rinkaaan/ConsoleApp.git
